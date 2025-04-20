@@ -4,4 +4,5 @@
 | Cheat Sheet |
 | ------------- |
 | [Linux Commands](./linux-commands.md) |
+| [SSH](./ssh.md) |
 
